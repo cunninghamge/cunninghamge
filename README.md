@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**cunninghamge/cunninghamge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Back End developer with a passion for helping others and developing new skills. I have a background in non-profit work and am excited to use code to do some good in the world. I'm currently a student at the Turing School of Software & Design, where I've focused thusfar on building both full-stack and back end Rails apps; next up I'll be diving into microservices and adding JavaScript on the front end. I'm looking for work and open to collaboration opportunities. You can find me at: 
 
-Here are some ideas to get you started:
+[LinkedIn] (www.linkedin.com/in/grayson-cunningham)
+[Resume] (https://resume.creddle.io/resume/czokbysnwon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My GitHub stats:
+(provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats))
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cunninghamge" />
+
+
