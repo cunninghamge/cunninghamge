@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi, I'm Gus!
 
-I'm a Back End developer with a passion for helping others and developing new skills. I have a background in non-profit work and am excited to use code to do some good in the world. I'm currently a student at the Turing School of Software & Design, where I've focused thusfar on building both full-stack and back end Rails apps; next up I'll be diving into microservices and adding JavaScript on the front end. I'm looking for work and open to collaboration opportunities. You can find me on [LinkedIn](https://www.linkedin.com/in/grayson-cunningham) or check out my [resume](https://resume.creddle.io/resume/czokbysnwon).
+I'm a backend developer with a background in non-profit work. I enjoy building APIs, writing All The Tests, and going down research rabbit holes to learn how my favorite workflow tools and RubyGems work.
 
-My GitHub stats:
-(provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats))
+- 🌱 I’m currently learning Ruby, Rails, SQL, Bash
+- 👯 I’m looking to collaborate on any interesting web apps or CLI tools
+- 📫 How to reach me: [Please message me via LinkedIn!] (https://www.linkedin.com/in/grayson-cunningham)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cunninghamge" />
-
+(stats provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats))
 
