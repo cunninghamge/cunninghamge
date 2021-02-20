@@ -7,5 +7,6 @@ I'm a backend developer with a background in non-profit work. I enjoy building A
 - 📫 How to reach me: [Please message me via LinkedIn!] (https://www.linkedin.com/in/grayson-cunningham)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cunninghamge" />
+
 (stats provided by [anuraghazra](https://github.com/anuraghazra/github-readme-stats))
 
