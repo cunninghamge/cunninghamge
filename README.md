@@ -4,7 +4,7 @@ I'm a backend developer with a background in non-profit work. I enjoy building A
 
 - 🌱 I’m currently learning Ruby, Rails, SQL, Bash scripting
 - 👯 I’m looking to collaborate on any interesting web apps or CLI tools
-- 📫 How to reach me: [Please message me via LinkedIn!] (https://www.linkedin.com/in/grayson-cunningham)
+- 📫 How to reach me: [Please message me on LinkedIn!](https://www.linkedin.com/in/grayson-cunningham)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cunninghamge)
 
