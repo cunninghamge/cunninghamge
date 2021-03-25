@@ -41,7 +41,10 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 <code><img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" /></code>
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cunninghamge)
