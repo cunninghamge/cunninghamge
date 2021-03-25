@@ -1,9 +1,13 @@
-# Hi, I'm Gus!
+<div align="left">
+ # Hi, I'm Gus!
 
 My name is Grayson but my developer friends call me Gus! I'm a backend web developer with a background in non-profit work. I enjoy building APIs, writing All The Tests, and going down research rabbit holes to learn how my favorite workflow tools and RubyGems work.
 
 - 📫 [Find me on LinkedIn!](https://www.linkedin.com/in/grayson-cunningham)
 - 📝 [Resume](https://resume.creddle.io/resume/czokbysnwon)
+</div>
+
+<iframe align="right" src="https://giphy.com/embed/xT1XGzXhVgWRLN1Cco" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco">via GIPHY</a></p>
 
 ## 🛠️ Languages & Tools
 ###  🧠 I'm best at:
