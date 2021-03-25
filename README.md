@@ -1,6 +1,6 @@
 # Hi, I'm Gus!
 
-My name is Grayson but my developer friends call me Gus! I'm a backend web developer with a background in non-profit work. I enjoy building APIs, writing All The Tests, and going down research rabbit holes to learn how my favorite workflow tools and RubyGems work.
+I'm a backend web developer with a background in non-profit work. I enjoy building APIs, writing All The Tests, and going down research rabbit holes to learn how my favorite workflow tools and RubyGems work.
 
 - 📫 [Find me on LinkedIn!](https://www.linkedin.com/in/grayson-cunningham)
 - 📝 [Resume](https://resume.creddle.io/resume/czokbysnwon)
