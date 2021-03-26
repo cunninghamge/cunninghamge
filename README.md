@@ -34,7 +34,6 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 <code><img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/></code>
 
 ## Practices & Processes
-<code><img src="https://img.shields.io/badge/Agile%20-9cf.svg?&style=for-the-badge&logo=Agile&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/MVC%20-7119C2.svg?&style=for-the-badge&logo=MVC&logoColor=white" /></code>
