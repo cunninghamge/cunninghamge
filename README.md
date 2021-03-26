@@ -41,10 +41,7 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 <code><img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" /></code>
 
 ### 📈 This week I spent my time on :
- <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
  ### 📊 My GitHub Stats
