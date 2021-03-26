@@ -5,8 +5,8 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 - 📫 [Find me on LinkedIn!](https://www.linkedin.com/in/grayson-cunningham)
 - 📝 [Resume](https://resume.creddle.io/resume/czokbysnwon)
 
-## 🛠️ Languages & Tools
-###  🧠 I'm best at:
+## Languages & Tools
+### 🛠️ I'm best at:
 <code><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" /></code>
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
@@ -33,7 +33,7 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 <code><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/></code>
 <code><img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/></code>
 
-## ⚓ Practices & Processes
+## Practices & Processes
 <code><img src="https://img.shields.io/badge/Agile%20-9cf.svg?&style=for-the-badge&logo=Agile&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" /></code>
