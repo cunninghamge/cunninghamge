@@ -39,13 +39,6 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 <code><img src="https://img.shields.io/badge/MVC%20-7119C2.svg?&style=for-the-badge&logo=MVC&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" /></code>
 
-### 📈 This week I spent my time on :
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
  ### 📊 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cunninghamge)
 
