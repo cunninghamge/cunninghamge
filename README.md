@@ -51,8 +51,7 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
  ### 📊 My GitHub Stats
-<!---
-![My's Github stats](https://github-readme-stats.vercel.app/api?username=cunninghamge&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cunninghamge&theme=tokyonight&hide=HTML)](https://github.com/cunninghamge/)
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cunninghamge&theme=vue&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cunninghamge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
