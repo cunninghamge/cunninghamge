@@ -42,7 +42,7 @@ I'm a backend web developer with a background in non-profit work. I enjoy buildi
 ### 📈 This week I spent my time on :
 <!--START_SECTION:waka-->
 ```text
-JSON   2 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
